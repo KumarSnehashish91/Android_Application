@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#0B1C2D"
+    android:fillViewport="true"
+    android:fitsSystemWindows="true">
+    
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="6dp">
+        <androidx.appcompat.widget.Toolbar
+    android:id="@+id/toolbar"
+    android:layout_width="match_parent"
+    android:layout_height="?attr/actionBarSize"
+    android:background="#0B1C2D"
+    android:elevation="4dp">
+
+            <TextView
+                android:id="@+id/toolbarTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="Calculate EMI"
+                android:textColor="#FFFFFF"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+        </androidx.appcompat.widget.Toolbar>
+
+        <!-- ================= RADIO GROUP ================= -->
+        <LinearLayout
+     android:id="@+id/rgFields"
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     android:orientation="vertical">
+
+            <!-- Loan Amount -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center_vertical"
+                android:layout_marginBottom="12dp">
+
+                <RadioButton
+                    android:id="@+id/rbLoanAmt"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:buttonTint="#2EA7FF" />
+
+                <TextView
+                    android:text="Loan Amount"
+                    android:textColor="#FFFFFF"
+                    android:layout_marginStart="8dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+
+                <EditText
+                    android:id="@+id/txtLoanAmt"
+                    android:layout_width="0dp"
+                    android:layout_height="48dp"
+                    android:layout_weight="1"
+                    android:layout_marginStart="12dp"
+                    android:textColor="#FFFFFF"
+                    android:textColorHint="#AAAAAA"
+                    android:inputType="number" />
+            </LinearLayout>
+
+            <!-- Interest -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center_vertical"
+                android:layout_marginBottom="12dp">
+
+                <RadioButton
+                    android:id="@+id/rbInterestPer"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:buttonTint="#2EA7FF" />
+
+                <TextView
+                    android:text="Interest %"
+                    android:textColor="#FFFFFF"
+                    android:layout_marginStart="8dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+
+                <EditText
+                    android:id="@+id/txtInterestPer"
+                    android:layout_width="0dp"
+                    android:layout_height="48dp"
+                    android:layout_weight="1"
+                    android:layout_marginStart="12dp"
+                    android:textColor="#FFFFFF"
+                    android:textColorHint="#AAAAAA"
+                    android:inputType="numberDecimal" />
+            </LinearLayout>
+
+            <!-- Period -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center_vertical"
+                android:layout_marginBottom="12dp">
+
+                <RadioButton
+                    android:id="@+id/rbPeriod"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:buttonTint="#2EA7FF" />
+
+                <TextView
+                    android:text="Period"
+                    android:textColor="#FFFFFF"
+                    android:layout_marginStart="8dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+
+                <EditText
+                    android:id="@+id/txtPeriod"
+                    android:layout_width="60dp"
+                    android:layout_height="48dp"
+                    android:layout_marginStart="12dp"
+                    android:textColor="#FFFFFF"
+                    android:textColorHint="#AAAAAA"
+                    android:inputType="number" />
+
+                <ToggleButton
+                    android:id="@+id/togglePeriodUnit"
+                    android:layout_width="wrap_content"
+                    android:layout_height="48dp"
+                    android:layout_marginStart="8dp"
+                    android:textOn="Years"
+                    android:textOff="Months"
+                    android:checked="true" />
+            </LinearLayout>
+
+            <!-- EMI -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center_vertical"
+                android:layout_marginBottom="12dp">
+
+                <RadioButton
+                    android:id="@+id/rbEMI"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:buttonTint="#2EA7FF" />
+
+                <TextView
+                    android:text="EMI"
+                    android:textColor="#FFFFFF"
+                    android:layout_marginStart="8dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+
+                <EditText
+                    android:id="@+id/txtEMI"
+                    android:layout_width="0dp"
+                    android:layout_height="48dp"
+                    android:layout_weight="1"
+                    android:layout_marginStart="12dp"
+                    android:enabled="false"
+                    android:textColor="#FFFFFF" />
+            </LinearLayout>
+
+            <!-- Processing Fee -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center_vertical"
+                android:layout_marginBottom="16dp">
+
+
+                <TextView
+                    android:text="Processing Fee %"
+                    android:textColor="#FFFFFF"
+                    android:layout_marginStart="8dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+
+                <EditText
+                    android:id="@+id/txtProcessFee"
+                    android:layout_width="0dp"
+                    android:layout_height="48dp"
+                    android:layout_weight="1"
+                    android:layout_marginStart="12dp"
+                    android:hint="0"
+                    android:textColor="#FFFFFF"
+                    android:textColorHint="#AAAAAA"
+                    android:inputType="numberDecimal" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <!-- ================= BUTTONS ================= -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginBottom="16dp">
+
+            <Button
+                android:id="@+id/btnCalc"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:text="Calculate"
+                android:backgroundTint="#2EA7FF"
+                android:textColor="#FFFFFF"
+                android:layout_height="48dp" />
+
+            <Button
+                android:id="@+id/btnReset"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_marginStart="8dp"
+                android:text="Reset"
+                android:layout_height="48dp" />
+
+            <Button
+                android:id="@+id/btnDetail"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_marginStart="8dp"
+                android:text="Detail"
+                android:backgroundTint="#32CD32"
+                android:textColor="#FFFFFF"
+                android:layout_height="48dp" />
+        </LinearLayout>
+
+        <!-- ================= RESULT TABLE ================= -->
+        <LinearLayout
+     android:id="@+id/layoutResult"
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     android:orientation="vertical"
+     android:background="@drawable/result_table_border"
+     android:padding="8dp"
+     android:visibility="gone">
+
+            <!-- Row 1 -->
+            <LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="48dp"
+    android:orientation="horizontal"
+    android:gravity="center_vertical">
+
+                <!-- Label column -->
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="3"
+        android:paddingStart="12dp"
+                    android:text="Monthly EMI"
+                    android:textColor="#FFFFFF"
+                    android:textSize="14sp" />
+
+                <!-- Vertical divider -->
+                
+
+                    <View
+                        android:layout_width="1dp"
+                        android:layout_height="match_parent"
+                        android:background="@drawable/result_vertical_divider" />
+                
+
+                <!-- Value column -->
+                <TextView
+                    android:id="@+id/txtResultEmi"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="3"
+                    android:gravity="end"
+                    android:paddingStart="12dp"
+                    android:textColor="#FFFFFF"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+
+            <View android:layout_height="1dp" android:layout_width="match_parent" android:background="@drawable/result_row_divider"/>
+
+            <!-- Row 2 -->
+            <LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="48dp"
+    android:orientation="horizontal"
+    android:gravity="center_vertical">
+
+                <!-- Label column -->
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                   android:layout_weight="3"
+        android:paddingStart="12dp"
+                    android:text="Total Interest"
+                    android:textColor="#FFFFFF"
+                    android:textSize="14sp" />
+
+                <!-- Vertical divider -->
+               
+
+                    <View
+                        android:layout_width="1dp"
+                        android:layout_height="match_parent"
+                        android:background="@drawable/result_vertical_divider" />
+               
+
+                <!-- Value column -->
+                <TextView
+                    android:id="@+id/txtResultInterest"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="3"
+                    android:gravity="end"
+                    android:paddingStart="12dp"
+                    android:textColor="#FFFFFF"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+
+            <View android:layout_height="1dp" android:layout_width="match_parent" android:background="@drawable/result_row_divider"/>
+
+            <!-- Row 3 -->
+            <LinearLayout
+     android:layout_width="match_parent"
+     android:layout_height="48dp"
+     android:orientation="horizontal"
+     android:gravity="center_vertical">
+
+                <!-- Label column -->
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="3"
+        android:paddingStart="12dp"
+                    android:text="Processing Fee"
+                    android:textColor="#FFFFFF"
+                    android:textSize="14sp" />
+
+                <!-- Vertical divider -->
+                
+
+                    <View
+                        android:layout_width="1dp"
+                        android:layout_height="match_parent"
+                        android:background="@drawable/result_vertical_divider" />
+               
+
+                <!-- Value column -->
+                <TextView
+                    android:id="@+id/txtResultProcessingFee"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="3"
+                    android:gravity="end"
+                    android:paddingStart="12dp"
+                    android:textColor="#FFFFFF"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+
+            <View android:layout_height="1dp" android:layout_width="match_parent" android:background="@drawable/result_row_divider"/>
+
+            <!-- Row 4 -->
+            <LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="48dp"
+    android:orientation="horizontal"
+    android:gravity="center_vertical">
+
+                <!-- Label column -->
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="3"
+        android:paddingStart="12dp"
+                    android:text="Total Payment"
+                    android:textColor="#FFFFFF"
+                    android:textSize="14sp" />
+
+                <!-- Vertical divider -->
+               
+
+                    <View
+                        android:layout_width="1dp"
+                        android:layout_height="match_parent"
+                        android:background="@drawable/result_vertical_divider" />
+               
+
+                <!-- Value column -->
+                <TextView
+                    android:id="@+id/txtResultTotal"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="3"
+                    android:gravity="end"
+                    android:paddingStart="12dp"
+                    android:textColor="#FFFFFF"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+</ScrollView>

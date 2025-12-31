@@ -1,0 +1,394 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Kumar\\Projects\\EMI_Calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{879C009C-BDC7-4B2F-8BD4-A3AE3189613F}|EMI_Calculator.csproj|c:\\kumar\\projects\\emi_calculator\\resources\\layout\\loginactivity.xml||{6B79B2C4-8503-4A04-8248-ADCEF2B49CB1}",
+      "RelativeMoniker": "D:0:0:{879C009C-BDC7-4B2F-8BD4-A3AE3189613F}|EMI_Calculator.csproj|solutionrelative:resources\\layout\\loginactivity.xml||{6B79B2C4-8503-4A04-8248-ADCEF2B49CB1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879C009C-BDC7-4B2F-8BD4-A3AE3189613F}|EMI_Calculator.csproj|c:\\kumar\\projects\\emi_calculator\\resources\\layout\\calculateemiactivity.xml||{6B79B2C4-8503-4A04-8248-ADCEF2B49CB1}",
+      "RelativeMoniker": "D:0:0:{879C009C-BDC7-4B2F-8BD4-A3AE3189613F}|EMI_Calculator.csproj|solutionrelative:resources\\layout\\calculateemiactivity.xml||{6B79B2C4-8503-4A04-8248-ADCEF2B49CB1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879C009C-BDC7-4B2F-8BD4-A3AE3189613F}|EMI_Calculator.csproj|c:\\kumar\\projects\\emi_calculator\\views\\loginactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{879C009C-BDC7-4B2F-8BD4-A3AE3189613F}|EMI_Calculator.csproj|solutionrelative:views\\loginactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879C009C-BDC7-4B2F-8BD4-A3AE3189613F}|EMI_Calculator.csproj|c:\\kumar\\projects\\emi_calculator\\views\\homeactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{879C009C-BDC7-4B2F-8BD4-A3AE3189613F}|EMI_Calculator.csproj|solutionrelative:views\\homeactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879C009C-BDC7-4B2F-8BD4-A3AE3189613F}|EMI_Calculator.csproj|c:\\kumar\\projects\\emi_calculator\\resources\\layout\\homeactivity.xml||{6B79B2C4-8503-4A04-8248-ADCEF2B49CB1}",
+      "RelativeMoniker": "D:0:0:{879C009C-BDC7-4B2F-8BD4-A3AE3189613F}|EMI_Calculator.csproj|solutionrelative:resources\\layout\\homeactivity.xml||{6B79B2C4-8503-4A04-8248-ADCEF2B49CB1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879C009C-BDC7-4B2F-8BD4-A3AE3189613F}|EMI_Calculator.csproj|c:\\kumar\\projects\\emi_calculator\\views\\calculateemiactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{879C009C-BDC7-4B2F-8BD4-A3AE3189613F}|EMI_Calculator.csproj|solutionrelative:views\\calculateemiactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879C009C-BDC7-4B2F-8BD4-A3AE3189613F}|EMI_Calculator.csproj|c:\\kumar\\projects\\emi_calculator\\resources\\values\\styles.xml||{6B79B2C4-8503-4A04-8248-ADCEF2B49CB1}",
+      "RelativeMoniker": "D:0:0:{879C009C-BDC7-4B2F-8BD4-A3AE3189613F}|EMI_Calculator.csproj|solutionrelative:resources\\values\\styles.xml||{6B79B2C4-8503-4A04-8248-ADCEF2B49CB1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879C009C-BDC7-4B2F-8BD4-A3AE3189613F}|EMI_Calculator.csproj|c:\\kumar\\projects\\emi_calculator\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{879C009C-BDC7-4B2F-8BD4-A3AE3189613F}|EMI_Calculator.csproj|solutionrelative:androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879C009C-BDC7-4B2F-8BD4-A3AE3189613F}|EMI_Calculator.csproj|c:\\kumar\\projects\\emi_calculator\\resources\\drawable\\home_card_bg_disabled.xml||{6B79B2C4-8503-4A04-8248-ADCEF2B49CB1}",
+      "RelativeMoniker": "D:0:0:{879C009C-BDC7-4B2F-8BD4-A3AE3189613F}|EMI_Calculator.csproj|solutionrelative:resources\\drawable\\home_card_bg_disabled.xml||{6B79B2C4-8503-4A04-8248-ADCEF2B49CB1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879C009C-BDC7-4B2F-8BD4-A3AE3189613F}|EMI_Calculator.csproj|c:\\kumar\\projects\\emi_calculator\\resources\\drawable\\home_card_bg.xml||{6B79B2C4-8503-4A04-8248-ADCEF2B49CB1}",
+      "RelativeMoniker": "D:0:0:{879C009C-BDC7-4B2F-8BD4-A3AE3189613F}|EMI_Calculator.csproj|solutionrelative:resources\\drawable\\home_card_bg.xml||{6B79B2C4-8503-4A04-8248-ADCEF2B49CB1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879C009C-BDC7-4B2F-8BD4-A3AE3189613F}|EMI_Calculator.csproj|c:\\kumar\\projects\\emi_calculator\\resources\\drawable\\login_input_bg.xml||{6B79B2C4-8503-4A04-8248-ADCEF2B49CB1}",
+      "RelativeMoniker": "D:0:0:{879C009C-BDC7-4B2F-8BD4-A3AE3189613F}|EMI_Calculator.csproj|solutionrelative:resources\\drawable\\login_input_bg.xml||{6B79B2C4-8503-4A04-8248-ADCEF2B49CB1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879C009C-BDC7-4B2F-8BD4-A3AE3189613F}|EMI_Calculator.csproj|c:\\kumar\\projects\\emi_calculator\\resources\\drawable\\login_card_bg.xml||{6B79B2C4-8503-4A04-8248-ADCEF2B49CB1}",
+      "RelativeMoniker": "D:0:0:{879C009C-BDC7-4B2F-8BD4-A3AE3189613F}|EMI_Calculator.csproj|solutionrelative:resources\\drawable\\login_card_bg.xml||{6B79B2C4-8503-4A04-8248-ADCEF2B49CB1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879C009C-BDC7-4B2F-8BD4-A3AE3189613F}|EMI_Calculator.csproj|c:\\kumar\\projects\\emi_calculator\\resources\\drawable\\result_vertical_divider.xml||{6B79B2C4-8503-4A04-8248-ADCEF2B49CB1}",
+      "RelativeMoniker": "D:0:0:{879C009C-BDC7-4B2F-8BD4-A3AE3189613F}|EMI_Calculator.csproj|solutionrelative:resources\\drawable\\result_vertical_divider.xml||{6B79B2C4-8503-4A04-8248-ADCEF2B49CB1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879C009C-BDC7-4B2F-8BD4-A3AE3189613F}|EMI_Calculator.csproj|c:\\kumar\\projects\\emi_calculator\\resources\\drawable\\result_row_divider.xml||{6B79B2C4-8503-4A04-8248-ADCEF2B49CB1}",
+      "RelativeMoniker": "D:0:0:{879C009C-BDC7-4B2F-8BD4-A3AE3189613F}|EMI_Calculator.csproj|solutionrelative:resources\\drawable\\result_row_divider.xml||{6B79B2C4-8503-4A04-8248-ADCEF2B49CB1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879C009C-BDC7-4B2F-8BD4-A3AE3189613F}|EMI_Calculator.csproj|c:\\kumar\\projects\\emi_calculator\\resources\\drawable\\result_table_border.xml||{6B79B2C4-8503-4A04-8248-ADCEF2B49CB1}",
+      "RelativeMoniker": "D:0:0:{879C009C-BDC7-4B2F-8BD4-A3AE3189613F}|EMI_Calculator.csproj|solutionrelative:resources\\drawable\\result_table_border.xml||{6B79B2C4-8503-4A04-8248-ADCEF2B49CB1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879C009C-BDC7-4B2F-8BD4-A3AE3189613F}|EMI_Calculator.csproj|c:\\kumar\\projects\\emi_calculator\\contracts\\iemicalculationstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{879C009C-BDC7-4B2F-8BD4-A3AE3189613F}|EMI_Calculator.csproj|solutionrelative:contracts\\iemicalculationstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879C009C-BDC7-4B2F-8BD4-A3AE3189613F}|EMI_Calculator.csproj|c:\\kumar\\projects\\emi_calculator\\services\\loanamtcalculationstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{879C009C-BDC7-4B2F-8BD4-A3AE3189613F}|EMI_Calculator.csproj|solutionrelative:services\\loanamtcalculationstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879C009C-BDC7-4B2F-8BD4-A3AE3189613F}|EMI_Calculator.csproj|c:\\kumar\\projects\\emi_calculator\\services\\emicalculationstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{879C009C-BDC7-4B2F-8BD4-A3AE3189613F}|EMI_Calculator.csproj|solutionrelative:services\\emicalculationstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879C009C-BDC7-4B2F-8BD4-A3AE3189613F}|EMI_Calculator.csproj|c:\\kumar\\projects\\emi_calculator\\viewmodels\\calculateemiviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{879C009C-BDC7-4B2F-8BD4-A3AE3189613F}|EMI_Calculator.csproj|solutionrelative:viewmodels\\calculateemiviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879C009C-BDC7-4B2F-8BD4-A3AE3189613F}|EMI_Calculator.csproj|c:\\kumar\\projects\\emi_calculator\\models\\calculationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{879C009C-BDC7-4B2F-8BD4-A3AE3189613F}|EMI_Calculator.csproj|solutionrelative:models\\calculationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879C009C-BDC7-4B2F-8BD4-A3AE3189613F}|EMI_Calculator.csproj|c:\\kumar\\projects\\emi_calculator\\models\\emiinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{879C009C-BDC7-4B2F-8BD4-A3AE3189613F}|EMI_Calculator.csproj|solutionrelative:models\\emiinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879C009C-BDC7-4B2F-8BD4-A3AE3189613F}|EMI_Calculator.csproj|c:\\kumar\\projects\\emi_calculator\\resources\\layout\\activity_main.xml||{6B79B2C4-8503-4A04-8248-ADCEF2B49CB1}",
+      "RelativeMoniker": "D:0:0:{879C009C-BDC7-4B2F-8BD4-A3AE3189613F}|EMI_Calculator.csproj|solutionrelative:resources\\layout\\activity_main.xml||{6B79B2C4-8503-4A04-8248-ADCEF2B49CB1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculateEMIActivity.xml",
+              "DocumentMoniker": "C:\\Kumar\\Projects\\EMI_Calculator\\Resources\\layout\\CalculateEMIActivity.xml",
+              "RelativeDocumentMoniker": "Resources\\layout\\CalculateEMIActivity.xml",
+              "ToolTip": "C:\\Kumar\\Projects\\EMI_Calculator\\Resources\\layout\\CalculateEMIActivity.xml",
+              "RelativeToolTip": "Resources\\layout\\CalculateEMIActivity.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-12-30T14:07:11.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeActivity.cs",
+              "DocumentMoniker": "C:\\Kumar\\Projects\\EMI_Calculator\\Views\\HomeActivity.cs",
+              "RelativeDocumentMoniker": "Views\\HomeActivity.cs",
+              "ToolTip": "C:\\Kumar\\Projects\\EMI_Calculator\\Views\\HomeActivity.cs",
+              "RelativeToolTip": "Views\\HomeActivity.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T13:36:36.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeActivity.xml",
+              "DocumentMoniker": "C:\\Kumar\\Projects\\EMI_Calculator\\Resources\\layout\\HomeActivity.xml",
+              "RelativeDocumentMoniker": "Resources\\layout\\HomeActivity.xml",
+              "ToolTip": "C:\\Kumar\\Projects\\EMI_Calculator\\Resources\\layout\\HomeActivity.xml",
+              "RelativeToolTip": "Resources\\layout\\HomeActivity.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-12-30T13:54:24.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginActivity.cs",
+              "DocumentMoniker": "C:\\Kumar\\Projects\\EMI_Calculator\\Views\\LoginActivity.cs",
+              "RelativeDocumentMoniker": "Views\\LoginActivity.cs",
+              "ToolTip": "C:\\Kumar\\Projects\\EMI_Calculator\\Views\\LoginActivity.cs",
+              "RelativeToolTip": "Views\\LoginActivity.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T13:12:39.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "styles.xml",
+              "DocumentMoniker": "C:\\Kumar\\Projects\\EMI_Calculator\\Resources\\values\\styles.xml",
+              "RelativeDocumentMoniker": "Resources\\values\\styles.xml",
+              "ToolTip": "C:\\Kumar\\Projects\\EMI_Calculator\\Resources\\values\\styles.xml",
+              "RelativeToolTip": "Resources\\values\\styles.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-12-31T12:13:57.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CalculateEMIActivity.cs",
+              "DocumentMoniker": "C:\\Kumar\\Projects\\EMI_Calculator\\Views\\CalculateEMIActivity.cs",
+              "RelativeDocumentMoniker": "Views\\CalculateEMIActivity.cs",
+              "ToolTip": "C:\\Kumar\\Projects\\EMI_Calculator\\Views\\CalculateEMIActivity.cs",
+              "RelativeToolTip": "Views\\CalculateEMIActivity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T10:17:15.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginActivity.xml",
+              "DocumentMoniker": "C:\\Kumar\\Projects\\EMI_Calculator\\Resources\\layout\\LoginActivity.xml",
+              "RelativeDocumentMoniker": "Resources\\layout\\LoginActivity.xml",
+              "ToolTip": "C:\\Kumar\\Projects\\EMI_Calculator\\Resources\\layout\\LoginActivity.xml",
+              "RelativeToolTip": "Resources\\layout\\LoginActivity.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-12-30T13:12:59.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoanAmtCalculationStrategy.cs",
+              "DocumentMoniker": "C:\\Kumar\\Projects\\EMI_Calculator\\Services\\LoanAmtCalculationStrategy.cs",
+              "RelativeDocumentMoniker": "Services\\LoanAmtCalculationStrategy.cs",
+              "ToolTip": "C:\\Kumar\\Projects\\EMI_Calculator\\Services\\LoanAmtCalculationStrategy.cs",
+              "RelativeToolTip": "Services\\LoanAmtCalculationStrategy.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T09:39:34.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "C:\\Kumar\\Projects\\EMI_Calculator\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "AndroidManifest.xml",
+              "ToolTip": "C:\\Kumar\\Projects\\EMI_Calculator\\AndroidManifest.xml",
+              "RelativeToolTip": "AndroidManifest.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-12-31T15:46:23.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "home_card_bg_disabled.xml",
+              "DocumentMoniker": "C:\\Kumar\\Projects\\EMI_Calculator\\Resources\\drawable\\home_card_bg_disabled.xml",
+              "RelativeDocumentMoniker": "Resources\\drawable\\home_card_bg_disabled.xml",
+              "ToolTip": "C:\\Kumar\\Projects\\EMI_Calculator\\Resources\\drawable\\home_card_bg_disabled.xml",
+              "RelativeToolTip": "Resources\\drawable\\home_card_bg_disabled.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-12-31T13:46:06.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "login_input_bg.xml",
+              "DocumentMoniker": "C:\\Kumar\\Projects\\EMI_Calculator\\Resources\\drawable\\login_input_bg.xml",
+              "RelativeDocumentMoniker": "Resources\\drawable\\login_input_bg.xml",
+              "ToolTip": "C:\\Kumar\\Projects\\EMI_Calculator\\Resources\\drawable\\login_input_bg.xml",
+              "RelativeToolTip": "Resources\\drawable\\login_input_bg.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-12-31T13:20:06.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "home_card_bg.xml",
+              "DocumentMoniker": "C:\\Kumar\\Projects\\EMI_Calculator\\Resources\\drawable\\home_card_bg.xml",
+              "RelativeDocumentMoniker": "Resources\\drawable\\home_card_bg.xml",
+              "ToolTip": "C:\\Kumar\\Projects\\EMI_Calculator\\Resources\\drawable\\home_card_bg.xml",
+              "RelativeToolTip": "Resources\\drawable\\home_card_bg.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-12-31T13:45:33.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "result_table_border.xml",
+              "DocumentMoniker": "C:\\Kumar\\Projects\\EMI_Calculator\\Resources\\drawable\\result_table_border.xml",
+              "RelativeDocumentMoniker": "Resources\\drawable\\result_table_border.xml",
+              "ToolTip": "C:\\Kumar\\Projects\\EMI_Calculator\\Resources\\drawable\\result_table_border.xml",
+              "RelativeToolTip": "Resources\\drawable\\result_table_border.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-12-31T12:45:49.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "login_card_bg.xml",
+              "DocumentMoniker": "C:\\Kumar\\Projects\\EMI_Calculator\\Resources\\drawable\\login_card_bg.xml",
+              "RelativeDocumentMoniker": "Resources\\drawable\\login_card_bg.xml",
+              "ToolTip": "C:\\Kumar\\Projects\\EMI_Calculator\\Resources\\drawable\\login_card_bg.xml",
+              "RelativeToolTip": "Resources\\drawable\\login_card_bg.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-12-31T13:19:38.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "result_row_divider.xml",
+              "DocumentMoniker": "C:\\Kumar\\Projects\\EMI_Calculator\\Resources\\drawable\\result_row_divider.xml",
+              "RelativeDocumentMoniker": "Resources\\drawable\\result_row_divider.xml",
+              "ToolTip": "C:\\Kumar\\Projects\\EMI_Calculator\\Resources\\drawable\\result_row_divider.xml",
+              "RelativeToolTip": "Resources\\drawable\\result_row_divider.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-12-31T12:46:41.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "result_vertical_divider.xml",
+              "DocumentMoniker": "C:\\Kumar\\Projects\\EMI_Calculator\\Resources\\drawable\\result_vertical_divider.xml",
+              "RelativeDocumentMoniker": "Resources\\drawable\\result_vertical_divider.xml",
+              "ToolTip": "C:\\Kumar\\Projects\\EMI_Calculator\\Resources\\drawable\\result_vertical_divider.xml",
+              "RelativeToolTip": "Resources\\drawable\\result_vertical_divider.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-12-31T12:51:19.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EmiCalculationStrategy.cs",
+              "DocumentMoniker": "C:\\Kumar\\Projects\\EMI_Calculator\\Services\\EmiCalculationStrategy.cs",
+              "RelativeDocumentMoniker": "Services\\EmiCalculationStrategy.cs",
+              "ToolTip": "C:\\Kumar\\Projects\\EMI_Calculator\\Services\\EmiCalculationStrategy.cs",
+              "RelativeToolTip": "Services\\EmiCalculationStrategy.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T09:01:39.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CalculateEMIViewModel.cs",
+              "DocumentMoniker": "C:\\Kumar\\Projects\\EMI_Calculator\\ViewModels\\CalculateEMIViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\CalculateEMIViewModel.cs",
+              "ToolTip": "C:\\Kumar\\Projects\\EMI_Calculator\\ViewModels\\CalculateEMIViewModel.cs",
+              "RelativeToolTip": "ViewModels\\CalculateEMIViewModel.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAlwCMAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T08:46:15.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IEmiCalculationStrategy.cs",
+              "DocumentMoniker": "C:\\Kumar\\Projects\\EMI_Calculator\\Contracts\\IEmiCalculationStrategy.cs",
+              "RelativeDocumentMoniker": "Contracts\\IEmiCalculationStrategy.cs",
+              "ToolTip": "C:\\Kumar\\Projects\\EMI_Calculator\\Contracts\\IEmiCalculationStrategy.cs",
+              "RelativeToolTip": "Contracts\\IEmiCalculationStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T08:54:42.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CalculationType.cs",
+              "DocumentMoniker": "C:\\Kumar\\Projects\\EMI_Calculator\\Models\\CalculationType.cs",
+              "RelativeDocumentMoniker": "Models\\CalculationType.cs",
+              "ToolTip": "C:\\Kumar\\Projects\\EMI_Calculator\\Models\\CalculationType.cs",
+              "RelativeToolTip": "Models\\CalculationType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T08:40:19.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EmiInput.cs",
+              "DocumentMoniker": "C:\\Kumar\\Projects\\EMI_Calculator\\Models\\EmiInput.cs",
+              "RelativeDocumentMoniker": "Models\\EmiInput.cs",
+              "ToolTip": "C:\\Kumar\\Projects\\EMI_Calculator\\Models\\EmiInput.cs",
+              "RelativeToolTip": "Models\\EmiInput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T08:55:15.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "activity_main.xml",
+              "DocumentMoniker": "C:\\Kumar\\Projects\\EMI_Calculator\\Resources\\layout\\activity_main.xml",
+              "RelativeDocumentMoniker": "Resources\\layout\\activity_main.xml",
+              "ToolTip": "C:\\Kumar\\Projects\\EMI_Calculator\\Resources\\layout\\activity_main.xml",
+              "RelativeToolTip": "Resources\\layout\\activity_main.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-12-30T14:07:34.681Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
